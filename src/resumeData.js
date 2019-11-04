@@ -16,8 +16,9 @@ let resumeData = {
     },
 
   ],
-  "aboutme": "I am currently a Software Developer for Paul Mitchell Schools. I got my start in coding while I attended MTECH during my senior year of HighSchool, since then I have completed schooling at Devmountain and have had experince in various development roles.",
-  "address": "Lehi, UT",
+  "aboutme": "I am currently a Software Developer ar Paul Mitchell Schools. When I'm not hunched over my screen you can usually find me listening to music or playing my instruments, I am a huge music listener and will almost always have it playing somewhere in the background. I also love to do the usual Utah things like go hiking, camping, have fires. You know, all the fun stuff!",
+  "aboutme2": "Email: robargegaje@gmail.com",
+  "email": "Cell: 385-685-3550",
   "education": [
     {
       "UniversityName": "Devmountain",

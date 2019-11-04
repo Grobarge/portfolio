@@ -12,7 +12,6 @@ export default class Porfolio extends Component {
           <h2><a href="https://github.com/Gaje-Robarge/biskue">Biskue</a></h2>
           <h2><a href="https://github.com/Grobarge/react-native-practice"> ReactNative</a></h2>
           <h2><a href="https://github.com/Gaje-Robarge/Simulation2">Houser</a></h2>
-          <h2><a href="https://github.com/Gaje-Robarge/NoDB-Project"> Gifs</a></h2>
 
         </div>
       </section>

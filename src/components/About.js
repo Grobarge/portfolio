@@ -22,7 +22,16 @@ export default class About extends Component {
                   </p>
 
                   <div className="row">
-
+                     <h2>Contact Me</h2>
+                     <p>
+                        {
+                           resumeData.aboutme2
+                        }
+                        <br />
+                        {
+                           resumeData.email
+                        }
+                     </p>
 
                   </div>
                </div>
@@ -31,3 +40,4 @@ export default class About extends Component {
       );
    }
 }
+
