@@ -31,17 +31,17 @@
   }
 }
 
- #portfolio .row {
-      width: 96%;
+ /* #portfolio .row {
+    width: 100%;
     max-width: 1020px;
     margin: 0 auto;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-}
+} */
 
- #portfolio .row a {
-      width: 96%;
+ /* #portfolio .row a {
+    width: 96%;
     max-width: 1020px;
     margin: 0 auto;
     display: flex;
@@ -49,10 +49,58 @@
     justify-content: space-between;
     color: black;
     text-decoration: underline;
-}
+} */
 
  #portfolio h1 {
     color: black;
     font-size: 20px;
     text-decoration: underline;
+}
+
+#portfolio .card {
+  background-repeat: no-repeat;
+  height: 25vh;
+  width: 20vw;
+  background-size: cover;
+  background-position: center;
+  height: 40vh;
+  width: 15vw;
+  margin-right: 25px;
+}
+
+#portfolio .card#bidmycrib {
+  background-image: url("./Assets/bidmycribcapture.png");
+  background-position: left;
+  
+
+}
+
+#portfolio .card#todoapp {
+  background-image: url("./Assets/todoapp.PNG");
+
+}
+
+#portfolio .card#houser {
+  background-image: url("./Assets/housercapture.PNG");
+  
+
+}
+
+#portfolio .card#shelfie {
+  background-image: url("./Assets/shelfiecapture.PNG");
+  background-position: left;
+}
+
+#portfolio .card#dropurspot {
+  background-image: url("./Assets/dropurspot.PNG");
+ 
+}
+
+
+#portfolio .cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
 }

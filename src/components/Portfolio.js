@@ -7,14 +7,26 @@ export default class Porfolio extends Component {
     return (
       <section id="portfolio">
         <h1>Projects</h1>
-        <div className="row">
-          <h2><a href="https://www.bidmycrib.com">BidMyCrib</a></h2>
-          <h2><a href="https://github.com/Gaje-Robarge/biskue">Biskue</a></h2>
-          <h2><a href="https://github.com/Grobarge/react-native-practice"> ReactNative</a></h2>
-          <h2><a href="https://github.com/Gaje-Robarge/Simulation2">Houser</a></h2>
+        <div className="cards">
+
+          <a className="card" id="dropurspot" href="https://github.com/Grobarge/dropurspot">
+          </a>
+          <a className="card" id="bidmycrib" href="https://www.bidmycrib.com">
+          </a>
+          <a className="card" id="todoapp" href="https://github.com/Grobarge/react-native-todo">
+          </a>
+          <a className="card" id="houser" href="https://github.com/Gaje-Robarge/houser">
+          </a>
+          <a className="card" id="shelfie" href="https://github.com/Gaje-Robarge/shelfie">
+          </a>
+
 
         </div>
+
+
       </section>
     );
   }
 }
+
+
