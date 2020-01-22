@@ -96,6 +96,11 @@
  
 }
 
+#portfolio .card#tableapp {
+  background-image: url("./Assets/SampleTableApp.JPG");
+ 
+}
+
 
 #portfolio .cards {
   display: flex;
