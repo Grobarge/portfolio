@@ -31,7 +31,7 @@
   }
 }
 
- /* #portfolio .row {
+/* #portfolio .row {
     width: 100%;
     max-width: 1020px;
     margin: 0 auto;
@@ -40,7 +40,7 @@
     justify-content: space-between;
 } */
 
- /* #portfolio .row a {
+/* #portfolio .row a {
     width: 96%;
     max-width: 1020px;
     margin: 0 auto;
@@ -51,10 +51,10 @@
     text-decoration: underline;
 } */
 
- #portfolio h1 {
-    color: black;
-    font-size: 20px;
-    text-decoration: underline;
+#portfolio h1 {
+  color: black;
+  font-size: 20px;
+  text-decoration: underline;
 }
 
 #portfolio .card {
@@ -66,24 +66,20 @@
   height: 40vh;
   width: 15vw;
   margin-right: 25px;
+  margin-bottom: 25px;
 }
 
 #portfolio .card#bidmycrib {
   background-image: url("./Assets/bidmycribcapture.png");
   background-position: left;
-  
-
 }
 
 #portfolio .card#todoapp {
   background-image: url("./Assets/todoapp.PNG");
-
 }
 
 #portfolio .card#houser {
   background-image: url("./Assets/housercapture.PNG");
-  
-
 }
 
 #portfolio .card#shelfie {
@@ -93,19 +89,21 @@
 
 #portfolio .card#dropurspot {
   background-image: url("./Assets/dropurspot.PNG");
- 
 }
 
 #portfolio .card#tableapp {
   background-image: url("./Assets/SampleTableApp.JPG");
- 
 }
 
+#portfolio .card#jamstack {
+  background-image: url("./Assets/jamstack.PNG");
+}
 
 #portfolio .cards {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: center;
   width: 100%;
+  padding-right: 1vw;
+  padding-left: 1vw;
 }
