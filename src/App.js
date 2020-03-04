@@ -13,6 +13,7 @@ class App extends Component {
         <About resumeData={resumeData} />
         <Resume resumeData={resumeData} />
         <Portfolio resumeData={resumeData} />
+        {/* <Wordpress /> */}
         <Footer resumeData={resumeData} />
       </div>
     );

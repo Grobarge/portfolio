@@ -31,26 +31,6 @@
   }
 }
 
-/* #portfolio .row {
-    width: 100%;
-    max-width: 1020px;
-    margin: 0 auto;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-} */
-
-/* #portfolio .row a {
-    width: 96%;
-    max-width: 1020px;
-    margin: 0 auto;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    color: black;
-    text-decoration: underline;
-} */
-
 #portfolio h1 {
   color: black;
   font-size: 20px;
