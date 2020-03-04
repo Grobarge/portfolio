@@ -1,10 +1,13 @@
-import React, { Component } from 'react';
-import Header from './components/Header';
-import About from './components/About';
-import Resume from './components/Resume';
-import Portfolio from './components/Portfolio';
-import Footer from './components/Footer';
-import resumeData from './resumeData';
+import React, { Component } from "react";
+import Header from "./components/Header";
+import About from "./components/About";
+import Resume from "./components/Resume";
+import Portfolio from "./components/Portfolio";
+import Footer from "./components/Footer";
+import resumeData from "./resumeData";
+import Wordpress from "./components/Wordpress";
+import Gaje from "./components/haha";
+
 class App extends Component {
   render() {
     return (
@@ -13,6 +16,7 @@ class App extends Component {
         <About resumeData={resumeData} />
         <Resume resumeData={resumeData} />
         <Portfolio resumeData={resumeData} />
+        <Wordpress />
         <Footer resumeData={resumeData} />
       </div>
     );
