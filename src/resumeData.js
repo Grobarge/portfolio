@@ -64,26 +64,26 @@ let resumeData = {
     },
   ],
   // "skillsDescription": "Your skills here",
-  "skills": [
-    {
-      "skillname": "HTML5"
-    },
-    {
-      "skillname": "CSS"
-    },
-    {
-      "skillname": "Reactjs"
-    },
-    {
-      "skillname": "wordpress"
-    },
-    {
-      "skillname": "NodeJs"
-    },
-    {
-      "skillname": "Git"
-    }
-  ],
+  // "skills": [
+  //   {
+  //     "skillname": "HTML5"
+  //   },
+  //   {
+  //     "skillname": "CSS"
+  //   },
+  //   {
+  //     "skillname": "Reactjs"
+  //   },
+  //   {
+  //     "skillname": "wordpress"
+  //   },
+  //   {
+  //     "skillname": "NodeJs"
+  //   },
+  //   {
+  //     "skillname": "Git"
+  //   }
+  // ],
   "portfolio": [
     {
       "name": "Biskue",
