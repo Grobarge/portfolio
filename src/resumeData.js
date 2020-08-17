@@ -16,7 +16,7 @@ let resumeData = {
     },
 
   ],
-  "aboutme": "I am currently a Software Developer ar Paul Mitchell Schools. When I'm not hunched over my screen you can usually find me listening to music or playing my instruments, I am a huge music listener and will almost always have it playing somewhere in the background. I also love to do the usual Utah things like go hiking, camping, have fires. You know, all the fun stuff!",
+  "aboutme": "I am currently a freelance Software Developer. When I'm not hunched over my screen you can usually find me listening to music or playing my instruments. I also love to do the usual Utah things like go hiking, camping, have fires. You know, all the fun stuff!",
   "aboutme2": "Email: robargegaje@gmail.com",
   "email": "Cell: 385-685-3550",
   "education": [
@@ -38,10 +38,19 @@ let resumeData = {
   ],
   "work": [
     {
+      "CompanyName": "Self Employed",
+      "specialization": "Software Developer",
+      "MonthOfLeaving": "March",
+      "YearOfLeaving": "2020- ",
+      "Achievements": "Web and Mobile Applications",
+      "Achievements2": "IT Consulting",
+      "Achievements3": "Wordpress, Shopify Developer"
+    },
+    {
       "CompanyName": "Paul Mitchell Schools",
       "specialization": "Software Developer",
-      "MonthOfLeaving": "September ",
-      "YearOfLeaving": "2019 - ",
+      "MonthOfLeaving": "August 2019 -",
+      "YearOfLeaving": "April 2020",
       "Achievements": "Develop internal tools to integrate with our current softwares in order to communicate with eachother",
       "Achievements2": "Manage and create content, functionality for school's training site",
       "Achievements3": "Work closely with Marketing & IT to get current business needs fulfilled. "
